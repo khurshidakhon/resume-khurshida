@@ -1,6 +1,6 @@
 # khurshida_resume
 
-A new Flutter project.
+My detailed resume compact application, which shows my last work experience in line with my coding skills
 
 ## Getting Started
 
